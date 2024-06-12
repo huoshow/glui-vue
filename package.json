@@ -1,5 +1,5 @@
 {
-  "name": "glui-vue",
+  "name": "gui-vue",
   "version": "1.0.0",
   "license": "MIT",
   "main": "lib/gillion-ui.common.js",

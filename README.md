@@ -1,9 +1,9 @@
-# vue-glui
+# glui-vue
 
 vue ui 组件库
 
 ## 安装
 
 ```sh
-npm install vue-glui
+npm i glui-vue
 ```

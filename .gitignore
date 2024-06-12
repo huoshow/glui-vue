@@ -1,0 +1,27 @@
+node_modules
+dist
+*.local
+.DS_Store
+.stylelintcache
+.hbuilderx
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 注意：如果文件已加入了版本管理，则加入 .gitignore 是不生效的，需要执行下面的操作，然后再提交即可
+# git rm -r --cached . # 针对所有文件
+# git rm -r --cached file1 dir1 # 针对文件或文件夹
